@@ -1,0 +1,48 @@
+.history-item {
+  list-style-type: none;
+  width: 100%;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 20px;
+}
+.domain-image {
+  width: 24px;
+  height: 24px;
+  margin-left: 22px;
+  margin-right: 10px;
+}
+.name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-right: 5px;
+  font-weight: 500;
+}
+.timeStyle {
+  font-size: 14px;
+  color: #475569;
+  padding: 10px;
+}
+.domainUrl {
+  color: #64748b;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
+.deleteImage {
+  background-color: white;
+  border: none;
+}
+.midContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
